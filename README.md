@@ -2,13 +2,13 @@
 
 **First-Class Data Science & Human Biology graduate (Keele University)** working where machine learning meets the biology behind the data.
 
-I turn messy clinical and biological data into insight that can help patients — from a 100,000-record diabetes prediction pipeline to RNA-seq differential expression and microbiome cancer-biomarker research.
+I turn messy clinical and biological data into insight that can help patients — from a 100,000-record diabetes prediction pipeline to RNA-seq differential expression and microbiome cancer-biomarker [...]
 
 - 🔬 **Focus:** health data · bioinformatics · applied ML · data analysis
 - 🧰 **Everyday tools:** Python, scikit-learn, XGBoost, pandas, SQL, RNA-seq
 - 🌱 **Currently:** open to entry-level roles in health data / bioinformatics / data analysis / ML (UK · remote)
 - 🇬🇧 **Work status:** on the UK Graduate Route visa — no sponsorship needed
-- 📫 **Reach me:** varunveru2004@gmail.com · [LinkedIn]((https://www.linkedin.com/in/varun-suresh-554653249/))
+- 📫 **Reach me:** varunveru2004@gmail.com · [LinkedIn](https://www.linkedin.com/in/varun-suresh-554653249/)
 
 ---
 
@@ -16,7 +16,7 @@ I turn messy clinical and biological data into insight that can help patients �
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Diabetes Detection ML Pipeline**](https://github.com/Max-278/Diabetes-ml-pipline) | End-to-end pipeline on 100k health records; 8 models benchmarked, 90%+ accuracy & AUC | Python, scikit-learn, XGBoost, pandas |
+| [**Diabetes Detection ML Pipeline**](https://github.com/Max-278/Diabetes-ml-pipline) | End-to-end pipeline on 100k health records; 8 models benchmarked, 90%+ accuracy & AUC | Python, scikit-learn, X[...]
 | [**Transcriptomic Expression Analysis**](https://github.com/Max-278/transcriptomics-analysis) | 11-gene RNA-seq study: QC → alignment → differential expression | Galaxy, RNA-seq, stats |
 | [**Income Classification (Adult dataset)**](https://github.com/Max-278/adult-income-ml) | Supervised classification & model comparison | Python, scikit-learn |
 
