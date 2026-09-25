@@ -38,6 +38,7 @@ Python · scikit-learn · XGBoost · pandas · NumPy · SQL · Java · Jupyter �
 
 ### Contact
 
+- 🌐 Website: [varun-suresh.com](https://max-278.github.io)
 - Email: varunveru2004@gmail.com
 - LinkedIn: [Varun Suresh](https://www.linkedin.com/in/varun-suresh-554653249/)
 - Work status: On the UK Graduate Route visa — no sponsorship needed
