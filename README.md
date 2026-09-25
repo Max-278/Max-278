@@ -8,7 +8,7 @@ I turn messy clinical and biological data into insight that can help patients �
 - 🧰 **Everyday tools:** Python, scikit-learn, XGBoost, pandas, SQL, RNA-seq
 - 🌱 **Currently:** open to entry-level roles in health data / bioinformatics / data analysis / ML (UK · remote)
 - 🇬🇧 **Work status:** on the UK Graduate Route visa — no sponsorship needed
-- 📫 **Reach me:** varunveru2004@gmail.com · [LinkedIn](https://linkedin.com/in/varun-suresh)
+- 📫 **Reach me:** varunveru2004@gmail.com · [LinkedIn]((https://www.linkedin.com/in/varun-suresh-554653249/))
 
 ---
 
