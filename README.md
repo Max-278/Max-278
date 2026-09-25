@@ -1,28 +1,29 @@
 # Hi, I'm Varun 👋
 
-**First-Class Data Science & Human Biology graduate (Keele University)** working where machine learning meets the biology behind the data.
+Data Science and Human Biology graduate from Keele University, with a strong interest in applying machine learning and data analysis to healthcare and biological research.
 
-I turn messy clinical and biological data into insight that can help patients — from a 100,000-record diabetes prediction pipeline to RNA-seq differential expression and microbiome cancer-biomarker [...]
+I turn messy clinical and biological datasets into meaningful insights that can support patient care, research, and decision-making.
 
-- 🔬 **Focus:** health data · bioinformatics · applied ML · data analysis
-- 🧰 **Everyday tools:** Python, scikit-learn, XGBoost, pandas, SQL, RNA-seq
-- 🌱 **Currently:** open to entry-level roles in health data / bioinformatics / data analysis / ML (UK · remote)
-- 🇬🇧 **Work status:** on the UK Graduate Route visa — no sponsorship needed
-- 📫 **Reach me:** varunveru2004@gmail.com · [LinkedIn](https://www.linkedin.com/in/varun-suresh-554653249/)
+- 🔬 Health data analytics
+- 🧬 Bioinformatics
+- 🤖 Applied machine learning
+- 📊 Data analysis and modelling
 
----
+### Open to work
+Entry-level roles in health data, bioinformatics, data analysis, and machine learning (UK · remote)
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Diabetes Detection ML Pipeline**](https://github.com/Max-278/Diabetes-ml-pipline) | End-to-end pipeline on 100k health records; 8 models benchmarked, 90%+ accuracy & AUC | Python, scikit-learn, X[...]
-| [**Transcriptomic Expression Analysis**](https://github.com/Max-278/transcriptomics-analysis) | 11-gene RNA-seq study: QC → alignment → differential expression | Galaxy, RNA-seq, stats |
-| [**Income Classification (Adult dataset)**](https://github.com/Max-278/adult-income-ml) | Supervised classification & model comparison | Python, scikit-learn |
+- [Diabetes Detection ML Pipeline](https://github.com/Max-278/Diabetes-ml-pipline)  
+  End-to-end machine learning pipeline on 100k health records with 8 models benchmarked and 90%+ accuracy/AUC.
 
----
+- [Transcriptomic Expression Analysis](https://github.com/Max-278/transcriptomics-analysis)  
+  RNA-seq study covering QC, alignment, and differential expression analysis across 11 genes.
 
-### 🛠️ Tech Toolbox
+- [Income Classification (Adult dataset)](https://github.com/Max-278/adult-income-ml)  
+  Supervised classification project comparing multiple models on a structured tabular dataset.
+
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -33,12 +34,17 @@ I turn messy clinical and biological data into insight that can help patients �
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Machine learning:** feature engineering · classification & regression · model evaluation · cross-validation · hyperparameter tuning
-**Bioinformatics:** transcriptomics · differential expression · microbiome analysis · Galaxy
+Python · scikit-learn · XGBoost · pandas · NumPy · SQL · Java · Jupyter · Git
+
+### Contact
+
+- Email: varunveru2004@gmail.com
+- LinkedIn: [Varun Suresh](https://www.linkedin.com/in/varun-suresh-554653249/)
+- Work status: On the UK Graduate Route visa — no sponsorship needed
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-278&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-278&layout=compact&hide_border=true)
