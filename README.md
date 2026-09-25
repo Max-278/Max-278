@@ -1,8 +1,8 @@
 # Hi, I'm Varun 👋
 
-Data Science and Human Biology graduate from Keele University, with a strong interest in applying machine learning and data analysis to healthcare and biological research.
+Data Science and Human Biology graduate from Keele University, focused on applying machine learning, analytics, and bioinformatics to healthcare and biological data.
 
-I turn messy clinical and biological datasets into meaningful insights that can support patient care, research, and decision-making.
+I turn messy clinical and biological datasets into meaningful insights that support patient care, research, and decision-making.
 
 - 🔬 Health data analytics
 - 🧬 Bioinformatics
@@ -15,10 +15,10 @@ Entry-level roles in health data, bioinformatics, data analysis, and machine lea
 ### Featured Projects
 
 - [Diabetes Detection ML Pipeline](https://github.com/Max-278/Diabetes-ml-pipline)  
-  End-to-end machine learning pipeline on 100k health records with 8 models benchmarked and 90%+ accuracy/AUC.
+  End-to-end prediction pipeline using 100k health records, benchmarking 8 models and achieving 90%+ accuracy/AUC.
 
 - [Transcriptomic Expression Analysis](https://github.com/Max-278/transcriptomics-analysis)  
-  RNA-seq study covering QC, alignment, and differential expression analysis across 11 genes.
+  RNA-seq project covering QC, alignment, and differential expression analysis across 11 genes.
 
 - [Income Classification (Adult dataset)](https://github.com/Max-278/adult-income-ml)  
   Supervised classification project comparing multiple models on a structured tabular dataset.
@@ -38,10 +38,10 @@ Python · scikit-learn · XGBoost · pandas · NumPy · SQL · Java · Jupyter �
 
 ### Contact
 
-- 🌐 Website: [varun-suresh.com](https://max-278.github.io)
-- Email: varunveru2004@gmail.com
-- LinkedIn: [Varun Suresh](https://www.linkedin.com/in/varun-suresh-554653249/)
-- Work status: On the UK Graduate Route visa — no sponsorship needed
+- 🌐 Website: [Portfolio](https://max-278.github.io)
+- 📧 Email: varunveru2004@gmail.com
+- 💼 LinkedIn: [Varun Suresh](https://www.linkedin.com/in/varun-suresh-554653249/)
+- 🛂 Work status: On the UK Graduate Route visa — no sponsorship needed
 
 ---
 
