@@ -14,11 +14,11 @@ Entry-level roles in health data, bioinformatics, data analysis, and machine lea
 
 ### Featured Projects
 
-- [Diabetes Detection ML Pipeline](https://github.com/Max-278/Diabetes-ml-pipline)  
+- [Diabetes Detection ML Pipeline](https://github.com/Max-278/Diabetes-ml-pipeline)  
   End-to-end prediction pipeline using 100k health records, benchmarking 8 models and achieving 90%+ accuracy/AUC.
 
 - [Transcriptomic Expression Analysis](https://github.com/Max-278/transcriptomics-analysis)  
-  RNA-seq project covering QC, alignment, and differential expression analysis across 11 genes.
+  RNA-seq project covering QC, alignment, and differential expression analysis across 11 samples (liver vs lung).
 
 - [Income Classification (Adult dataset)](https://github.com/Max-278/adult-income-ml)  
   Supervised classification project comparing multiple models on a structured tabular dataset.
@@ -41,7 +41,6 @@ Python · scikit-learn · XGBoost · pandas · NumPy · SQL · Java · Jupyter �
 - 🌐 Website: [Portfolio](https://max-278.github.io)
 - 📧 Email: varunveru2004@gmail.com
 - 💼 LinkedIn: [Varun Suresh](https://www.linkedin.com/in/varun-suresh-554653249/)
-- 🛂 Work status: On the UK Graduate Route visa — no sponsorship needed
 
 ---
 
